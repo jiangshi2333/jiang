@@ -1,4 +1,4 @@
 public class user {
-    private int age;
+    private Integer age;
     private String name;
 }
